@@ -6,14 +6,14 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    font-family: "Outfit";
+    font-family: "Outfit", sans-serif;
     text-align: center;
 }
 
 .container{
     background: white;
-    width: 288px;
-    padding: 16px 16px 24px;
+    width: 18rem;
+    padding: 1em 1em 1.5em;
     border-radius: 20px;
     box-shadow: 10px 10px 10px #CCD7E4;
     
@@ -29,7 +29,7 @@ body{
 
 
 .text-container{
-    padding: 0 16px 8px;
+    padding: 0 1em .5em;
 }
 
 
